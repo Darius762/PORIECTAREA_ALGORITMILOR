@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685828756 source:c:\users\darius\documents\facultate_anul_i_sem_ii\proiectarea_algoritmilor\tema_de_casa\utils.c
+
+1685828908 source:c:\users\darius\documents\facultate_anul_i_sem_ii\proiectarea_algoritmilor\tema_de_casa\main.c
+	<stdio.h>
+	<stdlib.h>
+
